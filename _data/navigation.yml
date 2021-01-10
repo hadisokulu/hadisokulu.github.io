@@ -4,6 +4,8 @@ main:
     url: "/index.html"
   - title: "Güncel Literatür"
     url: /literatur/
+      - title: "Hakkımızda"
+        url: /about/
   - title: "Konular"
     url: /categories/
   - title: "Site Haritası"
